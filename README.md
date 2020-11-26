@@ -1,9 +1,9 @@
 # ONLINE LEARNING AS A DISRUPTIVE TECHNOLOGY #
 
 The Internet has changed the lives of humans forever. In this Age, it is modern man's tool for survival as well as a source of information, livelihood, entertainment, and now more 
-importantly, learning. MOOCs are a form of online learning and is slowly gaining more attention, especially in this pandemic. This is where MOOCs come in. MOOCs are Massive Online 
-Open Courses. What is does is, that it offers College courses online, meaning anyone with a good internet connection and reliable Computer, smartphone, or tablet, can access these 
-courses from the internet. MOOCs are mostly free and if they do charge it is a small amount, usually for certificates in the course.
+importantly, learning. MOOCs are a form of online learning and is slowly gaining attention, especially in this pandemic. MOOCs are Massive Online Open Courses. What is does is, that
+it offers College courses online, meaning anyone with a good internet connection and reliable Computer, smartphone, or tablet, can access these courses from the internet. MOOCs are mostly 
+free and if they do charge it is a small amount, usually for certificates in the course.
 
 MOOCs is a form of online learning, and since its launch in 2011, its popularity had risen and fallen. Currently, it is becoming popular again because of the pandemic and the 
 relatively larger free time people have. Sites like, Skillshare, Udacity, Udemy, EdX, and Coursera are lately gaining more patrons and with it an increase in business. Most of 
