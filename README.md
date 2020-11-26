@@ -1,37 +1,110 @@
-## MMS 142 Group F 2020
+# ONLINE LEARNING AS A DISRUPTIVE TECHNOLOGY #
 
-You can use the [editor on GitHub](https://github.com/mms142-groupf-2020/mms142-groupf-2020.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+The Internet has changed the lives of humans forever. In this Age, it is modern man's tool for survival as well as a source of information, livelihood, entertainment, and now more 
+importantly, learning. MOOCs are a form of online learning and is slowly gaining more attention, especially in this pandemic. This is where MOOCs come in. MOOCs are Massive Online 
+Open Courses. What is does is, that it offers College courses online, meaning anyone with a good internet connection and reliable Computer, smartphone, or tablet, can access these 
+courses from the internet. MOOCs are mostly free and if they do charge it is a small amount, usually for certificates in the course.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+MOOCs is a form of online learning, and since its launch in 2011, its popularity had risen and fallen. Currently, it is becoming popular again because of the pandemic and the 
+relatively larger free time people have. Sites like, Skillshare, Udacity, Udemy, EdX, and Coursera are lately gaining more patrons and with it an increase in business. Most of 
+these course-based sites offer free lessons with a minimum fee (for certificates). Which is why it is a disruptive innovation. The attraction of a low-cost, "OK" quality product 
+is the main hallmark of a disruptor. It verily captures the underserved market, providing good alternatives to otherwise expensive options available to them. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### _DEFINITION OF TERMS:_ ###
++ **UPMARKET:**  refers to the tier above the market the entrant is currently dominating.
 
-```markdown
-Syntax highlighted code block
++ **INCUMBENT:** companies that are presently dominating the market of a certain product.
 
-# Header 1
-## Header 2
-### Header 3
++ **ENTRANT:**  companies who’ve just started to compete in the markets, beginning at the lowest tier of the market (least demanding customers).
 
-- Bulleted
-- List
++ **NEW VALUE NETWORK:** refers to a new group of consumers that are brought into the competing markets by the disruptive innovation. 
 
-1. Numbered
-2. List
++ **SUSTAINING TECHNOLOGY:** a business strategy where established products (bestseller) are upgraded and improved in a short time meaning more financial gains.
 
-**Bold** and _Italic_ and `Code` text
++ **UNDERSERVED:** The easiest to satisfy in the consumer tiers. They are those who prefer cheap, "OK" quality products rather than the expensive but sturdy-quality products.
 
-[Link](url) and ![Image](src)
-```
++ **MOOCs:** Online Courses offered by some Universities for free to establish wide-spread access and engagement.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## WHAT ARE DISRUPTIVE TECHNOLOGIES? ##
 
-### Jekyll Themes
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Cu6J6taqOSg
+" target="_blank"><img src="https://i.ytimg.com/an_webp/Cu6J6taqOSg/mqdefault_6s.webp?du=3000&sqp=CMjP_P0F&rs=AOn4CLDu2UHdXA4s9FWgASE3ztkhNjs38w" 
+alt="Disruptive Innovation" width="240" height="180" border="10" /></a>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mms142-groupf-2020/mms142-groupf-2020.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Disruptive Technologies or disruptive innovations are defined by Clayton Christensen as, ***“…it transforms a product that historically was so expensive and complicated that only 
+a few people with a lot of money and a lot of skill had access to it. Disruptive innovation makes it so much more affordable and accessible to a much larger population.”(2012)***
+Basically, it is a strategy that companies (entrant) use by offering products that are low-quality and cheap versions of other more expensive products. Overtime, product’s quality 
+improves, and in doing so garners more patrons upmarket, until they are level with big companies (incumbent), which by then causes a “disruption” in the market. 
 
-### Support or Contact
+It is possible in businesses to have an idea that is innovative but not disruptive. The 3-set litmus test below is the standard indicator that determines whether or not an idea 
+is disruptive.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+3 set Litmus Test for Disruptive Ideas:
+
+-	**Set 1:**
+1.	Is there a large population of people who historically have not had the money, equipment, or skill to do this thing for themselves, and as a result have gone without it 
+altogether or have needed to pay someone with more expertise to do it for them? 
+
+2.	To use the product or service, do customers need to go to an inconvenient, centralized location? 
+
+-	**Set 2:**
+1.	Are there customers at the low end of the market who would be happy to purchase a product with less (but good enough) performance if they could get it at a lower price? 
+
+2.	Can we create a business model that enables us to earn attractive profits at the discount prices required to win the business of these overserved customers at the low end?
+
+-	**Set 3:**
+
+1.	Is the innovation disruptive to all of the significant incumbent firms in the industry? If it appears to be sustaining to one or more significant players in the industry, then 
+the odds will be stacked in that firm’s favor, and the entrant is unlikely to win.
+
+(Christensen, 1997)
+
+### WHAT IS ONLINE LEARNING? ###
+
+It is any form of learning that uses the internet as a means of delivering lessons and instruction. (Malamed, C, n.d.). There are many kinds of Online Learning Programs and applications prominent now, such as Language tutorial apps (e.g. Duolingo and Drops) and Course-based websites (e.g. Udemy, Khan Academy, Skillshare, and Domestika).
+
+## WHY IS ONLINE LEARNING A DISRUPTIVE INNOVATION? ##
+
+**Online Learning is disruptive for 4 reasons:**
+
+-	It caters to those who do not have the financial means to pay for education but wish to learn.
+-	It is accessible everywhere so long as there is internet available.
+-	Online Learning is relatively less expensive than schools (cite sources)
+-	The platforms that offer the courses are easy to use.
+
+The cost of a college education here in the Philippines ranges from P300,000 to P100,000. 
+Online learning is legitimately “disruptive” because it passes the 3-set Litmus Test, also created by Clayton Christensen to determine if your idea/product is indeed disruptive:
+
+**3 set Litmus Test for Disruptive Ideas:**	
+-	Set 1:
+3)	Is there a large population of people who historically have not had the money, equipment, or skill to do this thing for themselves, and as a result have gone without it altogether or have needed to pay someone with more expertise to do it for them? 
+
+A: **YES**
+
+4)	To use the product or service, do customers need to go to an inconvenient, centralized location?
+
+A: **YES**
+
+ -	Set 2:
+3)	Are there customers at the low end of the market who would be happy to purchase a product with less (but good enough) performance if they could get it at a lower price? 
+
+A: **YES**
+
+4)	Can we create a business model that enables us to earn attractive profits at the discount prices required to win the business of these overserved customers at the low end?
+
+A: **YES**
+
+-	Set 3:
+2)	Is the innovation disruptive to all of the significant incumbent firms in the industry? If it appears to be sustaining to one or more significant players in the industry, then the odds will be stacked in that firm’s favor, and the entrant is unlikely to win.
+
+A: **YES**
+
+(Christensen, 1997)
+
+### Sources: ###
+- Interaction Design Foundation, 2nd Edition (Jan. 01, 2014), The Encyclopedia of Human-Computer Interaction, retrieved: November 21, 2020, from: https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/disruptive-innovation
+
+- Harvard Business Review (Mar. 30, 2020), Disruptive Innovation Explained, retrieved: November 18, 2020, from: https://www.youtube.com/watch?v=qDrMAzCHFUU
+
+- Malamed, C(n.d.), Glossary of Online Learning Terms, retrieved: November 21, 2020, from: https://theelearningcoach.com/resources/online-learning-glossary-of-terms/
