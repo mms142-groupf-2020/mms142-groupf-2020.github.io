@@ -70,7 +70,7 @@ It is any form of learning that uses the internet as a means of delivering lesso
 
 -	It caters to those who do not have the financial means to pay for education but wish to learn.
 -	It is accessible everywhere so long as there is internet available.
--	Online Learning is relatively less expensive than schools (cite sources)
+-	Online Learning is relatively less expensive than schools 
 -	The platforms that offer the courses are easy to use.
 
 The cost of a college education here in the Philippines ranges from P300,000 to P100,000. 
