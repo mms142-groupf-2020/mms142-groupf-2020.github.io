@@ -106,6 +106,10 @@ A: **YES**
 
 (Christensen, 1997)
 
+### HOW DOES ONLINE LEARNING DISRUPT TRADITIONAL EDUCATION? ###
+
+According to statistics taken from Purdue University & The National Center for Education Statistics, more than 6 million students are participating in online courses as part of their higher education program in 2018 and the numbers are rapidly increasing each year (Online Learning - What is it and how does it work?, 2017). 
+
 ### Sources: ###
 - Interaction Design Foundation, 2nd Edition (Jan. 01, 2014), The Encyclopedia of Human-Computer Interaction, retrieved: November 21, 2020, from: https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/disruptive-innovation
 
@@ -114,4 +118,8 @@ A: **YES**
 - Malamed, C(n.d.), Glossary of Online Learning Terms, retrieved: November 21, 2020, from: https://theelearningcoach.com/resources/online-learning-glossary-of-terms/
 
 - Stern, J. (n.d.). Introduction to Online Teaching and Learning, retrieved: November 26, 2020, from: http://www.wlac.edu/online/documents/otl.pdf
+
+- Online Learning - What is it and how does it work? (2017). Educations.com. retrieved: November 27, 2020, from: https://www.educations.com/study-guides/study-online/
+
+
 
