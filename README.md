@@ -62,7 +62,11 @@ the odds will be stacked in that firm’s favor, and the entrant is unlikely to 
 
 ### WHAT IS ONLINE LEARNING? ###
 
-It is any form of learning that uses the internet as a means of delivering lessons and instruction. (Malamed, C, n.d.). There are many kinds of Online Learning Programs and applications prominent now, such as Language tutorial apps (e.g. Duolingo and Drops) and Course-based websites (e.g. Udemy, Khan Academy, Skillshare, and Domestika).
+Online Learning, also called e-learning, is any form of learning that uses the internet as a means of delivering lessons and instruction (Malamed, C, n.d.). Online learning evolved from **distance learning** which is the term used for any learning that "takes place across distance and not in a traditional
+classroom" (Stern,n.d.). Nowadays, online laerning takes many forms such as MOOCS (Massive Online Open Courses), course-based websites (e.g. Udemy, Khan Academy, Skillshare, and Domestika), language tutorial apps (e.g. Duolingo and Drops) and many more. 
+
+From "virtual classrooms" of the past, many colleges and universities today make use of Course Management System (CMS) to conduct online learning. Examples of for-profit CMS include: Blackboard (www.blackboard.com), WebCT (www.webct.com) and eCollege (www.ecollege.com) while low cost alternative and open source CMS include: ETUDES-NG (http://etudesproject.org), Moodle (http://moodle.org) and Angel (http://angellearning.com). CMS offers tools such as schedule, announcements, syllabus, modules, assignments, discussion board, private messages, chat, tests & quizzes and gradebook that creates a learning environment where educators can deliver course content, enable
+communications, and conduct evaluations.
 
 ## WHY IS ONLINE LEARNING A DISRUPTIVE INNOVATION? ##
 
@@ -108,3 +112,6 @@ A: **YES**
 - Harvard Business Review (Mar. 30, 2020), Disruptive Innovation Explained, retrieved: November 18, 2020, from: https://www.youtube.com/watch?v=qDrMAzCHFUU
 
 - Malamed, C(n.d.), Glossary of Online Learning Terms, retrieved: November 21, 2020, from: https://theelearningcoach.com/resources/online-learning-glossary-of-terms/
+
+- Stern, J. (n.d.). Introduction to Online Teaching and Learning, retrieved: November 26, 2020, from: http://www.wlac.edu/online/documents/otl.pdf
+
