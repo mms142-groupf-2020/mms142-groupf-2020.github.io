@@ -128,11 +128,7 @@ Technically, no. However, due to the social stigma of online classes, they aren�
 (Christensen, 1997)
 
 
-## HOW DOES ONLINE LEARNING DISRUPT TRADITIONAL EDUCATION? ## 
-
-According to statistics taken from Purdue University & The National Center for Education Statistics, more than 6 million students are participating in online courses as part of their higher education program in 2018 and the numbers are rapidly increasing each year (Online Learning - What is it and how does it work?, 2017).
-
-### HOW DOES ONLINE LEARNING DISRUPT TRADITIONAL FACE-TO-FACE EDUCATION? ###
+## HOW DOES ONLINE LEARNING DISRUPT TRADITIONAL FACE-TO-FACE EDUCATION? ##
 
 According to statistics taken from Purdue University & The National Center for Education Statistics, more than 6 million students are participating in online courses as part of their higher education program in 2017 (Online Learning - What is it and how does it work?, 2017). This number continue to rapidly increase each year especially today with the ongoing coronavirus pandemic, showing evidence of disruption. This also further strengthens Flavin's (2012) aforementioned statement about how economic and social factors influence the rise of disruptive technologies. With the introduction of online learning technology, many educational institutions are forced to radically change the way they “operate, educate and innovate” to accommodate the changing needs and environment of the modern student. Factors such as education budget cuts from governments and students not being able to afford the high costs of tuition have driven technology to change policies and practices when it comes to higher education. There’s also a clamor for more efficient learning than the traditional education where learning is measured by how efficient students could memorize the lessons instead of understanding it. Arising from this perspective is a “new understanding of how learning happens” and this is how and why, Meyer theorizes disruption could occur (Meyer,2010).
 
