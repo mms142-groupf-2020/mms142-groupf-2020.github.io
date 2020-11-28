@@ -32,7 +32,7 @@ is the main hallmark of a disruptor. It verily captures the underserved market, 
 ## WHAT ARE DISRUPTIVE TECHNOLOGIES? ##
 
 
-[![Disruptive Innovation](https://github.com/mms142-groupf-2020/mms142-groupf-2020.github.io/raw/daenjerus-patch-1/Disruptive%20Innovation%20SS.jpg)](https://www.youtube.com/watch?v=Cu6J6taqOSg "Disruptiuve Innovation")
+[![Disruptive Innovation](https://mms142-groupf-2020.github.io/Disruptive%20Innovation%20SS.jpg)](https://www.youtube.com/watch?v=Cu6J6taqOSg "Disruptiuve Innovation")
 
 
 Disruptive Technologies or disruptive innovations are defined by Clayton Christensen as, ***“…it transforms a product that historically was so expensive and complicated that only 
@@ -117,13 +117,7 @@ Yes. Online marketing and digital commerce have been around for decades, startin
 
 Technically, no. However, due to the social stigma of online classes, they aren’t immediately threatened by it: socially speaking, someone graduating from an MOOC would not have the same level of social awe as a graduate from a top-end university such as Harvard University. However, the innovation is not being ignored by existing providers: MOOCs often include courses taught by these same high-end universities. Existing providers, such as UP, are also adopting the new innovation into their systems.
 
-
 (Christensen, 1997)
-
-
-## HOW DOES ONLINE LEARNING DISRUPT TRADITIONAL EDUCATION? ## 
-
-According to statistics taken from Purdue University & The National Center for Education Statistics, more than 6 million students are participating in online courses as part of their higher education program in 2018 and the numbers are rapidly increasing each year (Online Learning - What is it and how does it work?, 2017).
 
 ### HOW DOES ONLINE LEARNING DISRUPT TRADITIONAL FACE-TO-FACE EDUCATION? ###
 
