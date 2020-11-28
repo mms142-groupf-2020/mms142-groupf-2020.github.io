@@ -70,11 +70,12 @@ It is any form of learning that uses the internet as a means of delivering lesso
 
 -	It caters to those who do not have the financial means to pay for education but wish to learn.
 -	It is accessible everywhere so long as there is internet available.
--	Online Learning is relatively less expensive than schools 
+-	It affords more flexibility in terms of time.
 -	The platforms that offer the courses are easy to use.
 
-The cost of a college education here in the Philippines ranges from P300,000 to P100,000. While, Skillshare prices their tutorials at P1200 Annually and P400 monthly and Udemy prices their courses at $9.99 (P481) per course.
-Online learning is legitimately “disruptive” because it passes the 3-set Litmus Test, also created by Clayton Christensen but we used the more recent metric, from the Clayton Christensen Institute to determine if your idea/product is indeed disruptive:
+The cost of a college education here in the Philippines ranges from P300,000 to P100,000. While, Skillshare prices their tutorials at P1200 Annually and P400 monthly and Udemy prices their courses at $9.99 (P481) per course. These low prices are the ones that draw in the consumers as well as its accessibility over the internet. The courses are also structured to be flexible to the users needs. Time-constraints are minimized or eliminated to ensure ease of use.
+
+Online learning is legitimately “disruptive” because it passes the 3-set Litmus Test, also created by Clayton Christensen but we used the more recent metric, from the Clayton Christensen Institute to determine if the idea/product is indeed disruptive:
 
 **1. Does it target nonconsumers or people who are overserved by an incumbent’s existing offering in market?**
 
@@ -105,6 +106,10 @@ Technically, no. However, due to the social stigma of online classes, they aren�
 
 (Christensen, 1997)
 
+## HOW DOES ONLINE LEARNING DISRUPT TRADITIONAL EDUCATION? ## 
+
+According to statistics taken from Purdue University & The National Center for Education Statistics, more than 6 million students are participating in online courses as part of their higher education program in 2018 and the numbers are rapidly increasing each year (Online Learning - What is it and how does it work?, 2017).
+
 ### Sources: ###
 - Interaction Design Foundation, 2nd Edition (Jan. 01, 2014), The Encyclopedia of Human-Computer Interaction, retrieved: November 21, 2020, from: https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/disruptive-innovation
 
@@ -112,8 +117,17 @@ Technically, no. However, due to the social stigma of online classes, they aren�
 
 - Malamed, C(n.d.), Glossary of Online Learning Terms, retrieved: November 21, 2020, from: https://theelearningcoach.com/resources/online-learning-glossary-of-terms/
 
-- Adams, S. (2019, April 26). Online Education Provider Coursera Is Now Worth More Than $1 Billion. Retrieved from https://www.forbes.com/sites/susanadams/2019/04/25/online-education-provider-coursera-is-now-worth-more-than-1-billion/?sh=45c2902130e1
+- QUT IFB101(Mar. 22, 2015), Disruptive Innovation, retrieved: November 16, 2020, from: https://www.youtube.com/watch?v=Cu6J6taqOSg
 
-- Christensen Institute. (2017, October 24). Are you (really) disruptive? Six ways to find out. Retrieved from https://www.christenseninstitute.org/blog/really-disruptive-six-ways-find/
+- Adams, S. (Apr. 26, 2019). Online Education Provider Coursera Is Now Worth More Than $1 Billion. Retrieved from https://www.forbes.com/sites/susanadams/2019/04/25/online-education-provider-coursera-is-now-worth-more-than-1-billion/?sh=45c2902130e1
+
+- Christensen Institute. (Oct. 24, 2017). Are you (really) disruptive? Six ways to find out. Retrieved from https://www.christenseninstitute.org/blog/really-disruptive-six-ways-find/
 
 - Iskandar, Andrea. (2016). Coursera's Business Level Strategy. 10.13140/RG.2.1.2902.8088. 
+
+- Stern, J. (n.d.). Introduction to Online Teaching and Learning, retrieved: November 26, 2020, from: http://www.wlac.edu/online/documents/otl.pdf
+
+- Online Learning - What is it and how does it work? (2017). Educations.com. retrieved: November 27, 2020, from: https://www.educations.com/study-guides/study-online/
+
+- University), V. U.-E. (Global B. S. &. (n.d.). E-learning as a Disruptive Innovation. Vision U-EENI (Global Business School & University), retrieved: November 28, 2020, from: http://www.u-eeni.edu.es/en/e-learning-Disruptive-Innovation.shtml
+
