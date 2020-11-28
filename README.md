@@ -63,6 +63,13 @@ the odds will be stacked in that firm’s favor, and the entrant is unlikely to 
 
 (Christensen, 1997)
 
+Christensen also stated that disruption is partly about consumers establishing the purpose of technologies through practice (Christensen and Raynor, 2003).
+
+Markides’ (2006) added on to this and stated that disruptive technologies do not happen naturally, but are created through practice. Michael Flavin, Head of Curriculum Innovation at King's College London, adds on to Markides’ argument and cited Wikipedia as an example: encyclopedias are established forms of publication, but Wikipedia has changed the way they are distributed, produced, and consumed. 
+
+Therefore, astute practice of a technology gives rise to disruption and not its intrinsic features (Christensen and Raynor, 2003). This is because practice “does not occur in a vacuum but is shaped by underpinning economic and social factors (Flavin, 2012).”
+
+
 ![3784896](https://raw.githubusercontent.com/mms142-groupf-2020/mms142-groupf-2020.github.io/Images-for-Site/3784896.jpg)
 
 ### WHAT IS ONLINE LEARNING? ###
@@ -127,7 +134,7 @@ According to statistics taken from Purdue University & The National Center for E
 
 ### HOW DOES ONLINE LEARNING DISRUPT TRADITIONAL FACE-TO-FACE EDUCATION? ###
 
-According to statistics taken from Purdue University & The National Center for Education Statistics, more than 6 million students are participating in online courses as part of their higher education program in 2017 (Online Learning - What is it and how does it work?, 2017). This number continue to rapidly increase each year especially today with the ongoing coronavirus pandemic, showing evidence of disruption. With the introduction of online learning technology, many educational institutions are forced to radically change the way they “operate, educate and innovate” to accommodate the changing needs and environment of the modern student. Factors such as education budget cuts from governments and students not being able to afford the high costs of tuition have driven technology to change policies and practices when it comes to higher education. There’s also a clamor for more efficient learning than the traditional education where learning is measured by how efficient students could memorize the lessons instead of understanding it. Arising from this perspective is a “new understanding of how learning happens” and this is how and why, Meyer theorizes disruption could occur (Meyer,2010).
+According to statistics taken from Purdue University & The National Center for Education Statistics, more than 6 million students are participating in online courses as part of their higher education program in 2017 (Online Learning - What is it and how does it work?, 2017). This number continue to rapidly increase each year especially today with the ongoing coronavirus pandemic, showing evidence of disruption. This also further strengthens Flavin's (2012) aforementioned statement about how economic and social factors influence the rise of disruptive technologies. With the introduction of online learning technology, many educational institutions are forced to radically change the way they “operate, educate and innovate” to accommodate the changing needs and environment of the modern student. Factors such as education budget cuts from governments and students not being able to afford the high costs of tuition have driven technology to change policies and practices when it comes to higher education. There’s also a clamor for more efficient learning than the traditional education where learning is measured by how efficient students could memorize the lessons instead of understanding it. Arising from this perspective is a “new understanding of how learning happens” and this is how and why, Meyer theorizes disruption could occur (Meyer,2010).
 
 Online learning also taps into new market of non-traditional students who in the past would have limited access to education. Examples are parents, the fully employed and physically challenged students. Online learning levels the playing field where discrimination regarding age, physical appearance, disabilities, race and gender are eliminated. Thus, the focus is on the learning itself and how well a student respond to the course materials. Studies made by the US Department of Education show that students performed better in online courses that face-to-face courses and better still with blended online and face-to-face learning (Meyer,2010). According to the studies, this is because students have more time to spend time on a task at hand, giving them more control over the process of their learning. With continuous access to the course materials, students can take the time to reflect on their study. Students are also encouraged to explore other tools and softwares according to their needs. 
 
@@ -141,17 +148,24 @@ The new learning experience puts the student in focus, where their needs and con
 - Adams, S. (Apr. 26, 2019). Online Education Provider Coursera Is Now Worth More Than $1 Billion. Retrieved from https://www.forbes.com/sites/susanadams/2019/04/25/online-education-provider-coursera-is-now-worth-more-than-1-billion/?sh=45c2902130e1
 
 - Christensen Institute. (Oct. 24, 2017). Are you (really) disruptive? Six ways to find out. Retrieved from https://www.christenseninstitute.org/blog/really-disruptive-six-ways-find/
+
+- Christensen, C. M. (1997) The Innovator’s Dilemma: When New Technologies Cause Great Firms to Fail, Harvard Business School Press, Boston, MA.
+
+- Christensen, C. M. & Raynor, M. E. (2003) The Innovator’s Solution: Creating and Sustaining Successful Growth, Harvard University Press, Cambridge, MA
+
+- Flavin, M. (2012). Disruptive technologies in higher education. doi:10.3402/rlt.v20i0.19184
+
 - Harvard Business Review (Mar. 30, 2020), Disruptive Innovation Explained, retrieved: November 18, 2020, from: https://www.youtube.com/watch?v=qDrMAzCHFUU
 
 - Interaction Design Foundation, 2nd Edition (Jan. 01, 2014), The Encyclopedia of Human-Computer Interaction, retrieved: November 21, 2020, from: https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/disruptive-innovation
 
 - Iskandar, Andrea. (2016). Coursera's Business Level Strategy. 10.13140/RG.2.1.2902.8088. 
 
-- Malamed, C(n.d.), Glossary of Online Learning Terms, retrieved: November 21, 2020, from: https://theelearningcoach.com/resources/online-learning-glossary-of-terms/
+- Malamed, C. (n.d.), Glossary of Online Learning Terms, retrieved: November 21, 2020, from: https://theelearningcoach.com/resources/online-learning-glossary-of-terms/
 
 - Online Learning - What is it and how does it work? (2017). Educations.com. retrieved: November 27, 2020, from: https://www.educations.com/study-guides/study-online/
 
-- QUT IFB101(Mar. 22, 2015), Disruptive Innovation, retrieved: November 16, 2020, from: https://www.youtube.com/watch?v=Cu6J6taqOSg
+- QUT IFB101 (Mar. 22, 2015), Disruptive Innovation, retrieved: November 16, 2020, from: https://www.youtube.com/watch?v=Cu6J6taqOSg
 
 - Stern, J. (n.d.). Introduction to Online Teaching and Learning, retrieved: November 26, 2020, from: http://www.wlac.edu/online/documents/otl.pdf
 
