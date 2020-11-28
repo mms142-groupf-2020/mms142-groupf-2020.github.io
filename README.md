@@ -76,29 +76,29 @@ It is any form of learning that uses the internet as a means of delivering lesso
 The cost of a college education here in the Philippines ranges from P300,000 to P100,000. While, Skillshare prices their tutorials at P1200 Annually and P400 monthly and Udemy prices their courses at $9.99 (P481) per course.
 Online learning is legitimately “disruptive” because it passes the 3-set Litmus Test, also created by Clayton Christensen but we used the more recent metric, from the Clayton Christensen Institute to determine if your idea/product is indeed disruptive:
 
-1.	**Does it target nonconsumers or people who are overserved by an incumbent’s existing offering in market?**
+**1. Does it target nonconsumers or people who are overserved by an incumbent’s existing offering in market?**
 
 Depends, but yes. MOOCs have a wide range of targets. The most common users of MOOCs however are students, adults, and lifelong learners. People within the average age range of students are arguably underserved by existing education offerings given the state of non-education; therefore it could be said that potential students are nonconsumers. Adults, especially working adults, also don’t have the time to enter full-time college courses, making MOOCs a viable option to continue learning.
 
-2.	**Is the offering not as good as an incumbent’s existing offering as judged by historical measures of performance?**
+**2. Is the offering not as good as an incumbent’s existing offering as judged by historical measures of performance?**
 
 Yes. Initially MOOCs, such as Coursera did not provide academic credit, although they were free. While they did provide courses arguably of the same quality as attending an actual college course, they weren’t necessarily useful to their target market. The courses provided no contribution to an individual’s degree program. It does provide certification, but that doesn’t have as much clout as a full degree.
 
-3.**Is the innovation simpler to use, or more convenient or more affordable than the incumbent’s existing offering?**
+**3. Is the innovation simpler to use, or more convenient or more affordable than the incumbent’s existing offering?**
 
 Yes. Its mere presence on the internet fulfills all the above conditions, excepting simplicity. Internet usage requires a measure of skill on its own that certain adult demographics do not have. However, in general, its accessibility makes up for it. MOOCs are accessible from a user’s own home, which also touches on affordability. Even if the prices were the same for an MOOC and a physical class, if we view price outside of the simplistic context of money and add in other resources expended to attend physical college classes, such as travel time, energy expenditure, and psychological stressors, MOOCs win out on affordability.
 
 However, quality of education for cost may suffer: online courses are yet to be as widely accepted as physical classing.
 
-4.**Does the offering have a technological enabler that can carry it to upmarket and allow it to improve?**
+**4. Does the offering have a technological enabler that can carry it to upmarket and allow it to improve?**
 
-		Yes: the internet, and the communication technologies that carry it.
+Yes: the internet, and the communication technologies that carry it.
   
-5.	**Is the technology paired with a business model innovation that allows it to be sustainable?**
+**5. Is the technology paired with a business model innovation that allows it to be sustainable?**
 
 Yes. Online marketing and digital commerce have been around for decades, starting with AuctionWeb in 1995. Online transactions have dramatically improved since then, allowing people to purchase practically anything online, if they know where to look.
 
-6.	**Are existing providers motivated to ignore the new innovation and not threatened at the outset?**
+**6. Are existing providers motivated to ignore the new innovation and not threatened at the outset?**
 
 Technically, no. However, due to the social stigma of online classes, they aren’t immediately threatened by it: socially speaking, someone graduating from an MOOC would not have the same level of social awe as a graduate from a top-end university such as Harvard University. However, the innovation is not being ignored by existing providers: MOOCs often include courses taught by these same high-end universities. Existing providers, such as UP, are also adopting the new innovation into their systems.
 
