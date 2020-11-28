@@ -136,12 +136,14 @@ Online learning also taps into new market of non-traditional students who in the
 
 Online learning also offers new opportunities for educators to create and develop new dynamic courses of the highest quality. With the use of the internet, resources around the world have never been more accessible. Experts from various fields could also join online discussions to interact with students, further increasing quality and relevance of education. New innovations such as competency-based education (CBE) has enabled the pedagogy to assess the student’s different skills and proficiencies, making learning self-paced and individual-focused, therefore more efficient and effective (Strengths and Weaknesses of Online Learning,2020). Cleborne Maddux and D. Lamont also describes the use of technology in education where Type I uses of technology “automates or replicates an existing practice” and Type II uses of technology “allow students and teachers to do things that could not be done before (Meyer,2010). 
 
-     REX’s Learning Pathways is one such tool that helps students achieve mastery of essential learning
-     competencies and skills–and it is available at their fingertips! A competency-based online learning
-     platform, it comes in the form of a handy mobile app that allows students to learn at their own pace,
-     anytime and anywhere! Learn how to empower learners and propel them towards mastery–visit the link
-     below to learn more about REX Learning Pathways today: bit.ly/Pathways-November [(Source)](https://www.facebook.com/230137773679127/posts/5438332572859595/)
+![image](https://user-images.githubusercontent.com/74535996/100519459-f5b36500-31d2-11eb-8563-565c86bc82de.png)
 
+     An example of CBE is REX Book Store's Learning Pathways. According to REX, Learning Pathways "is one
+     such tool that helps students achieve mastery of essential learning competencies and skills–and it is
+     available at their fingertips! A competency-based online learning platform, it comesin the form of a
+     handy mobile app that allows students to learn at their own pace, anytime andanywhere!" Visit this link
+     and try it out for yourself: bit.ly/Pathways-November
+     
 The new learning experience puts the student in focus, where their needs and convenience translates to effective education. It pushes new ways to create a learning environment where students are motivated to learn course materials in their own way as well as creating new knowledge along the way. Online learning will appeal to students most especially those who have learning styles different from what a traditional classroom implements. With online learning, learning can be personalized. Now, students can learn anytime and anywhere.
 
 Online learning is also beneficial to both students and educators because of ease in communication. By providing instantaneous feedback, aside from saving time, educators can shift focus and perspective, and ultimately help students develop personal goals toward their own learning.
@@ -174,6 +176,8 @@ Online learning is also beneficial to both students and educators because of eas
 - Online Learning - What is it and how does it work? (2017). Educations.com. retrieved: November 27, 2020, from: https://www.educations.com/study-guides/study-online/
 
 - QUT IFB101 (Mar. 22, 2015), Disruptive Innovation, retrieved: November 16, 2020, from: https://www.youtube.com/watch?v=Cu6J6taqOSg
+
+- REX Bookstore. (2020, November 21). Pathways. Retrieved November 28, 2020, from https://www.facebook.com/230137773679127/posts/5438332572859595/
 
 - Stern, J. (n.d.). Introduction to Online Teaching and Learning, retrieved: November 26, 2020, from: http://www.wlac.edu/online/documents/otl.pdf
 
