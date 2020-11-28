@@ -121,23 +121,23 @@ Technically, no. However, due to the social stigma of online classes, they arenâ
 According to statistics taken from Purdue University & The National Center for Education Statistics, more than 6 million students are participating in online courses as part of their higher education program in 2018 and the numbers are rapidly increasing each year (Online Learning - What is it and how does it work?, 2017).
 
 ### Sources: ###
-- Interaction Design Foundation, 2nd Edition (Jan. 01, 2014), The Encyclopedia of Human-Computer Interaction, retrieved: November 21, 2020, from: https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/disruptive-innovation
-
-- Harvard Business Review (Mar. 30, 2020), Disruptive Innovation Explained, retrieved: November 18, 2020, from: https://www.youtube.com/watch?v=qDrMAzCHFUU
-
-- Malamed, C(n.d.), Glossary of Online Learning Terms, retrieved: November 21, 2020, from: https://theelearningcoach.com/resources/online-learning-glossary-of-terms/
-
-- QUT IFB101(Mar. 22, 2015), Disruptive Innovation, retrieved: November 16, 2020, from: https://www.youtube.com/watch?v=Cu6J6taqOSg
 
 - Adams, S. (Apr. 26, 2019). Online Education Provider Coursera Is Now Worth More Than $1 Billion. Retrieved from https://www.forbes.com/sites/susanadams/2019/04/25/online-education-provider-coursera-is-now-worth-more-than-1-billion/?sh=45c2902130e1
 
 - Christensen Institute. (Oct. 24, 2017). Are you (really) disruptive? Six ways to find out. Retrieved from https://www.christenseninstitute.org/blog/really-disruptive-six-ways-find/
+- Harvard Business Review (Mar. 30, 2020), Disruptive Innovation Explained, retrieved: November 18, 2020, from: https://www.youtube.com/watch?v=qDrMAzCHFUU
+
+- Interaction Design Foundation, 2nd Edition (Jan. 01, 2014), The Encyclopedia of Human-Computer Interaction, retrieved: November 21, 2020, from: https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/disruptive-innovation
 
 - Iskandar, Andrea. (2016). Coursera's Business Level Strategy. 10.13140/RG.2.1.2902.8088. 
 
-- Stern, J. (n.d.). Introduction to Online Teaching and Learning, retrieved: November 26, 2020, from: http://www.wlac.edu/online/documents/otl.pdf
+- Malamed, C(n.d.), Glossary of Online Learning Terms, retrieved: November 21, 2020, from: https://theelearningcoach.com/resources/online-learning-glossary-of-terms/
 
 - Online Learning - What is it and how does it work? (2017). Educations.com. retrieved: November 27, 2020, from: https://www.educations.com/study-guides/study-online/
+
+- QUT IFB101(Mar. 22, 2015), Disruptive Innovation, retrieved: November 16, 2020, from: https://www.youtube.com/watch?v=Cu6J6taqOSg
+
+- Stern, J. (n.d.). Introduction to Online Teaching and Learning, retrieved: November 26, 2020, from: http://www.wlac.edu/online/documents/otl.pdf
 
 - University), V. U.-E. (Global B. S. &. (n.d.). E-learning as a Disruptive Innovation. Vision U-EENI (Global Business School & University), retrieved: November 28, 2020, from: http://www.u-eeni.edu.es/en/e-learning-Disruptive-Innovation.shtml
 
