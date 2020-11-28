@@ -67,7 +67,11 @@ the odds will be stacked in that firm’s favor, and the entrant is unlikely to 
 
 ### WHAT IS ONLINE LEARNING? ###
 
-It is any form of learning that uses the internet as a means of delivering lessons and instruction. (Malamed, C, n.d.). There are many kinds of Online Learning Programs and applications prominent now, such as Language tutorial apps (e.g. Duolingo and Drops) and Course-based websites (e.g. Udemy, Khan Academy, Skillshare, and Domestika).
+Online Learning, also called e-learning, is any form of learning that uses the internet as a means of delivering lessons and instruction (Malamed, C, n.d.). Online learning evolved from **distance learning** which is the term used for any learning that "takes place across distance and not in a traditional
+classroom" (Stern,n.d.). Nowadays, online laerning takes many forms such as MOOCS (Massive Online Open Courses), course-based websites (e.g. Udemy, Khan Academy, Skillshare, and Domestika), language tutorial apps (e.g. Duolingo and Drops) and many more. 
+
+From "virtual classrooms" of the past, many colleges and universities today make use of Course Management System (CMS) to conduct online learning. Examples of for-profit CMS include: Blackboard (www.blackboard.com), WebCT (www.webct.com) and eCollege (www.ecollege.com) while low cost alternative and open source CMS include: ETUDES-NG (http://etudesproject.org), Moodle (http://moodle.org) and Angel (http://angellearning.com). CMS offers tools such as schedule, announcements, syllabus, modules, assignments, discussion board, private messages, chat, tests & quizzes and gradebook that creates a learning environment where educators can deliver course content, enable
+communications, and conduct evaluations.
 
 ## WHY IS ONLINE LEARNING A DISRUPTIVE INNOVATION? ##
 
@@ -116,9 +120,21 @@ Technically, no. However, due to the social stigma of online classes, they aren�
 
 (Christensen, 1997)
 
+
 ## HOW DOES ONLINE LEARNING DISRUPT TRADITIONAL EDUCATION? ## 
 
 According to statistics taken from Purdue University & The National Center for Education Statistics, more than 6 million students are participating in online courses as part of their higher education program in 2018 and the numbers are rapidly increasing each year (Online Learning - What is it and how does it work?, 2017).
+
+### HOW DOES ONLINE LEARNING DISRUPT TRADITIONAL FACE-TO-FACE EDUCATION? ###
+
+According to statistics taken from Purdue University & The National Center for Education Statistics, more than 6 million students are participating in online courses as part of their higher education program in 2017 (Online Learning - What is it and how does it work?, 2017). This number continue to rapidly increase each year especially today with the ongoing coronavirus pandemic, showing evidence of disruption. With the introduction of online learning technology, many educational institutions are forced to radically change the way they “operate, educate and innovate” to accommodate the changing needs and environment of the modern student. Factors such as education budget cuts from governments and students not being able to afford the high costs of tuition have driven technology to change policies and practices when it comes to higher education. There’s also a clamor for more efficient learning than the traditional education where learning is measured by how efficient students could memorize the lessons instead of understanding it. Arising from this perspective is a “new understanding of how learning happens” and this is how and why, Meyer theorizes disruption could occur (Meyer,2010).
+
+Online learning also taps into new market of non-traditional students who in the past would have limited access to education. Examples are parents, the fully employed and physically challenged students. Online learning levels the playing field where discrimination regarding age, physical appearance, disabilities, race and gender are eliminated. Thus, the focus is on the learning itself and how well a student respond to the course materials. Studies made by the US Department of Education show that students performed better in online courses that face-to-face courses and better still with blended online and face-to-face learning (Meyer,2010). According to the studies, this is because students have more time to spend time on a task at hand, giving them more control over the process of their learning. With continuous access to the course materials, students can take the time to reflect on their study. Students are also encouraged to explore other tools and softwares according to their needs. 
+
+Online learning also offers new opportunities for educators to create and develop new dynamic courses of the highest quality. With the use of the internet, resources around the world have never been more accessible. Experts from various fields could also join online discussions to interact with students, further increasing quality and relevance of education. New innovations such as competency-based education (CBE) has enabled the pedagogy to assess the student’s different skills and proficiencies, making learning self-paced and individual-focused, therefore more efficient and effective (Strengths and Weaknesses of Online Learning,2020). Cleborne Maddux and D. Lamont also describes the use of technology in education where Type I uses of technology “automates or replicates an existing practice” and Type II uses of technology “allow students and teachers to do things that could not be done before (Meyer,2010). 
+
+The new learning experience puts the student in focus, where their needs and convenience translates to effective education. It pushes new ways to create a learning environment where students are motivated to learn course materials in their own way as well as creating new knowledge along the way
+
 
 ### Sources: ###
 
@@ -140,4 +156,16 @@ According to statistics taken from Purdue University & The National Center for E
 - Stern, J. (n.d.). Introduction to Online Teaching and Learning, retrieved: November 26, 2020, from: http://www.wlac.edu/online/documents/otl.pdf
 
 - University), V. U.-E. (Global B. S. &. (n.d.). E-learning as a Disruptive Innovation. Vision U-EENI (Global Business School & University), retrieved: November 28, 2020, from: http://www.u-eeni.edu.es/en/e-learning-Disruptive-Innovation.shtml
+
+- Stern, J. (n.d.). Introduction to Online Teaching and Learning, retrieved: November 26, 2020, from: http://www.wlac.edu/online/documents/otl.pdf
+
+- Online Learning - What is it and how does it work? (2017). Educations.com. retrieved: November 27, 2020, from: https://www.educations.com/study-guides/study-online/
+
+- University, V. U.-E. (Global B. S. &. (n.d.). E-learning as a Disruptive Innovation. Vision U-EENI (Global Business School & University), retrieved: November 28, 2020, from: http://www.u-eeni.edu.es/en/e-learning-Disruptive-Innovation.shtml
+
+- M, L., & Goldrick, T. (2017, June 5). The top 5 disruptive technologies in higher ed. retrieved: November 28, 2020, from: https://www.ecampusnews.com/2017/06/05/disruptive-technologies-higher-ed/
+
+- Meyer, K. (2010, March 15). The Role of Disruptive Technology in the Future of Higher Education. Educause Review. retrieved: November 28, 2020, from: https://er.educause.edu/articles/2010/3/the-role-of-disruptive-technology-in-the-future-of-higher-education
+
+- Strengths and Weaknesses of Online Learning - ION Professional eLearning Programs - UIS. (2020). Uis.Edu. retrieved: November 28, 2020, from: https://www.uis.edu/ion/resources/tutorials/online-education-overview/strengths-and-weaknesses/
 
