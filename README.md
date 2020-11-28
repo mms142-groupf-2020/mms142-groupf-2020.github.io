@@ -1,3 +1,6 @@
+
+![10088](https://raw.githubusercontent.com/mms142-groupf-2020/mms142-groupf-2020.github.io/Images-for-Site/10088.jpg)
+
 # ONLINE LEARNING AS A DISRUPTIVE TECHNOLOGY #
 
 The Internet has changed the lives of humans forever. In this Age, it is modern man's tool for survival as well as a source of information, livelihood, entertainment, and now more 
@@ -60,6 +63,8 @@ the odds will be stacked in that firm’s favor, and the entrant is unlikely to 
 
 (Christensen, 1997)
 
+![3784896](https://raw.githubusercontent.com/mms142-groupf-2020/mms142-groupf-2020.github.io/Images-for-Site/3784896.jpg)
+
 ### WHAT IS ONLINE LEARNING? ###
 
 It is any form of learning that uses the internet as a means of delivering lessons and instruction. (Malamed, C, n.d.). There are many kinds of Online Learning Programs and applications prominent now, such as Language tutorial apps (e.g. Duolingo and Drops) and Course-based websites (e.g. Udemy, Khan Academy, Skillshare, and Domestika).
@@ -73,7 +78,11 @@ It is any form of learning that uses the internet as a means of delivering lesso
 -	It affords more flexibility in terms of time.
 -	The platforms that offer the courses are easy to use.
 
-The cost of a college education here in the Philippines ranges from P300,000 to P100,000. While, Skillshare prices their tutorials at P1200 Annually and P400 monthly and Udemy prices their courses at $9.99 (P481) per course. These low prices are the ones that draw in the consumers as well as its accessibility over the internet. The courses are also structured to be flexible to the users needs. Time-constraints are minimized or eliminated to ensure ease of use.
+![3818436](https://raw.githubusercontent.com/mms142-groupf-2020/mms142-groupf-2020.github.io/Images-for-Site/3818436.jpg)
+
+     The cost of a college education here in the Philippines ranges from P300,000 to P100,000. While, Skillshare prices 
+     their tutorials at P1200 Annually and P400 monthly and Udemy prices their courses at $9.99 (P481) per course. These 
+     low prices are the ones that draw in the consumers as well as its accessibility over the internet.
 
 Online learning is legitimately “disruptive” because it passes the 3-set Litmus Test, also created by Clayton Christensen but we used the more recent metric, from the Clayton Christensen Institute to determine if the idea/product is indeed disruptive:
 
