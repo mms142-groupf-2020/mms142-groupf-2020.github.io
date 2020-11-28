@@ -117,23 +117,21 @@ Online learning also offers new opportunities for educators to create and develo
 The new learning experience puts the student in focus, where their needs and convenience translates to effective education. It pushes new ways to create a learning environment where students are motivated to learn course materials in their own way as well as creating new knowledge along the way
 
 ### Sources: ###
-- Interaction Design Foundation, 2nd Edition (Jan. 01, 2014), The Encyclopedia of Human-Computer Interaction, retrieved: November 21, 2020, from: https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/disruptive-innovation
-
 - Harvard Business Review (Mar. 30, 2020), Disruptive Innovation Explained, retrieved: November 18, 2020, from: https://www.youtube.com/watch?v=qDrMAzCHFUU
+
+- Interaction Design Foundation, 2nd Edition (Jan. 01, 2014), The Encyclopedia of Human-Computer Interaction, retrieved: November 21, 2020, from: https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/disruptive-innovation
 
 - Malamed, C(n.d.), Glossary of Online Learning Terms, retrieved: November 21, 2020, from: https://theelearningcoach.com/resources/online-learning-glossary-of-terms/
 
-- Stern, J. (n.d.). Introduction to Online Teaching and Learning, retrieved: November 26, 2020, from: http://www.wlac.edu/online/documents/otl.pdf
-
-- Online Learning - What is it and how does it work? (2017). Educations.com. retrieved: November 27, 2020, from: https://www.educations.com/study-guides/study-online/
-
-- University, V. U.-E. (Global B. S. &. (n.d.). E-learning as a Disruptive Innovation. Vision U-EENI (Global Business School & University), retrieved: November 28, 2020, from: http://www.u-eeni.edu.es/en/e-learning-Disruptive-Innovation.shtml
+- Meyer, K. (2010, March 15). The Role of Disruptive Technology in the Future of Higher Education. Educause Review. retrieved: November 28, 2020, from: https://er.educause.edu/articles/2010/3/the-role-of-disruptive-technology-in-the-future-of-higher-education
 
 - M, L., & Goldrick, T. (2017, June 5). The top 5 disruptive technologies in higher ed. retrieved: November 28, 2020, from: https://www.ecampusnews.com/2017/06/05/disruptive-technologies-higher-ed/
 
-- Meyer, K. (2010, March 15). The Role of Disruptive Technology in the Future of Higher Education. Educause Review. retrieved: November 28, 2020, from: https://er.educause.edu/articles/2010/3/the-role-of-disruptive-technology-in-the-future-of-higher-education
+- Online Learning - What is it and how does it work? (2017). Educations.com. retrieved: November 27, 2020, from: https://www.educations.com/study-guides/study-online/
+
+- Stern, J. (n.d.). Introduction to Online Teaching and Learning, retrieved: November 26, 2020, from: http://www.wlac.edu/online/documents/otl.pdf
 
 - Strengths and Weaknesses of Online Learning - ION Professional eLearning Programs - UIS. (2020). Uis.Edu. retrieved: November 28, 2020, from: https://www.uis.edu/ion/resources/tutorials/online-education-overview/strengths-and-weaknesses/
 
-
+- University, V. U.-E. (Global B. S. &. (n.d.). E-learning as a Disruptive Innovation. Vision U-EENI (Global Business School & University), retrieved: November 28, 2020, from: http://www.u-eeni.edu.es/en/e-learning-Disruptive-Innovation.shtml
 
