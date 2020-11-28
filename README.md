@@ -136,7 +136,9 @@ Online learning also taps into new market of non-traditional students who in the
 
 Online learning also offers new opportunities for educators to create and develop new dynamic courses of the highest quality. With the use of the internet, resources around the world have never been more accessible. Experts from various fields could also join online discussions to interact with students, further increasing quality and relevance of education. New innovations such as competency-based education (CBE) has enabled the pedagogy to assess the student’s different skills and proficiencies, making learning self-paced and individual-focused, therefore more efficient and effective (Strengths and Weaknesses of Online Learning,2020). Cleborne Maddux and D. Lamont also describes the use of technology in education where Type I uses of technology “automates or replicates an existing practice” and Type II uses of technology “allow students and teachers to do things that could not be done before (Meyer,2010). 
 
-The new learning experience puts the student in focus, where their needs and convenience translates to effective education. It pushes new ways to create a learning environment where students are motivated to learn course materials in their own way as well as creating new knowledge along the way
+The new learning experience puts the student in focus, where their needs and convenience translates to effective education. It pushes new ways to create a learning environment where students are motivated to learn course materials in their own way as well as creating new knowledge along the way. Online learning will appeal to students most especially those who have learning styles different from what a traditional classroom implements. With online learning, learning can be personalized. Now, students can learn anytime and anywhere.
+
+Online learning is also beneficial to both students and educators because of ease in communication. By providing instantaneous feedback, aside from saving time, educators can shift focus and perspective, and ultimately help students develop personal goals toward their own learning.
 
 
 ### Sources: ###
@@ -148,6 +150,10 @@ The new learning experience puts the student in focus, where their needs and con
 - Christensen, C. M. (1997) The Innovator’s Dilemma: When New Technologies Cause Great Firms to Fail, Harvard Business School Press, Boston, MA.
 
 - Christensen, C. M. & Raynor, M. E. (2003) The Innovator’s Solution: Creating and Sustaining Successful Growth, Harvard University Press, Cambridge, MA
+
+- Education Technology: How Technology is Changing Teaching & Learning. (2020, April 28). Retrieved November 28, 2020, from http://www.avinstallations.co.uk/education-technology-how-technology-is-changing-teaching-learning/
+
+- E-Learning Infographics. (2020, May 26). Technology In Education - e-Learning Infographics. Retrieved November 28, 2020, from https://elearninginfographics.com/education-technology-technology-changing-teaching/
 
 - Flavin, M. (2012). Disruptive technologies in higher education. doi:10.3402/rlt.v20i0.19184
 
