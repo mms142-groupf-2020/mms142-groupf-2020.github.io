@@ -121,5 +121,7 @@ According to statistics taken from Purdue University & The National Center for E
 
 - Online Learning - What is it and how does it work? (2017). Educations.com. retrieved: November 27, 2020, from: https://www.educations.com/study-guides/study-online/
 
+- University), V. U.-E. (Global B. S. &. (n.d.). E-learning as a Disruptive Innovation. Vision U-EENI (Global Business School & University), retrieved: November 28, 2020, from: http://www.u-eeni.edu.es/en/e-learning-Disruptive-Innovation.shtml
+
 
 
