@@ -119,7 +119,7 @@ Technically, no. However, due to the social stigma of online classes, they arenâ
 
 (Christensen, 1997)
 
-### PHILIPPINES' EDUCATION SYSTEM IN THE PRESENT ###
+### PHILIPPINE EDUCATION SYSTEM IN THE PRESENT ###
 
 From this time forward, the current situation of the Philippine education system is not having a sustainable solution. This system is struggling to adapt to the sudden and major shift to distance learning because of the COVID-19 pandemic. Some are reportedly killed himself because of worries about causing a financial burden; some are stopping because they were not able to catch-up; and some are dropping because of their anxieties. On the other side, classrooms remain empty, but then teachers are working hard to deliver quality education to students (Haggerty & Lee, 2020). Some teachers are travelling to remote areas to drop off the printed modules for their students. There are some parents who have to step in to assist their children in their paper works. This pandemic made our education crisis worse than ever that made the inequities the online learning has much seen ever before especially around the digital divide. It is true that having a lack of in-person classes is having big effects.
 
