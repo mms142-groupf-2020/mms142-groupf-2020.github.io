@@ -136,7 +136,13 @@ Online learning also taps into new market of non-traditional students who in the
 
 Online learning will appeal most especially to students whose learning styles vary greatly from what a traditional classroom implements. With online learning, learning can be personalized. Now, students can learn anytime and anywhere.
 
+![image](https://github.com/mms142-groupf-2020/mms142-groupf-2020.github.io/blob/Additional-Content-1/OnlineLearning_1.gif)
+
+![image](https://github.com/mms142-groupf-2020/mms142-groupf-2020.github.io/blob/Additional-Content-1/OnlineLearning_2.png)
+
 Online learning also offers new opportunities for educators to create and develop new dynamic courses of the highest quality. With the use of the internet, resources around the world have never been more accessible. Experts from various fields could also join online discussions to interact with students, further increasing quality and relevance of education. New innovations such as competency-based education (CBE) has enabled the pedagogy to assess the student’s different skills and proficiencies, making learning self-paced and individual-focused, therefore more efficient and effective (Strengths and Weaknesses of Online Learning,2020).
+
+![image](https://github.com/mms142-groupf-2020/mms142-groupf-2020.github.io/blob/Additional-Content-1/OnlineLearning_3.png)
 
 Online learning is also beneficial to both students and educators because of ease in communication. By providing instantaneous feedback, aside from saving time, educators can shift focus and perspective, and ultimately help students develop personal goals toward their own learning.
 
@@ -150,6 +156,8 @@ Cleborne Maddux and D. Lamont also describes the use of technology in education 
      handy mobile app that allows students to learn at their own pace, anytime andanywhere!" Visit this link
      and try it out for yourself: bit.ly/Pathways-November
      
+![image](https://github.com/mms142-groupf-2020/mms142-groupf-2020.github.io/blob/Additional-Content-1/OnlineLearning_4.png)
+
 The new learning experience puts the student in focus, where their needs and convenience translates to effective education. It pushes new ways to create a learning environment where students are motivated to learn course materials in their own way as well as creating new knowledge along the way.
 
 ### Sources: ###
