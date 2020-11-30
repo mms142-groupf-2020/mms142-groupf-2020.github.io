@@ -142,7 +142,7 @@ Online learning is also beneficial to both students and educators because of eas
 
 Cleborne Maddux and D. Lamont also describes the use of technology in education where Type I uses of technology “automates or replicates an existing practice” and Type II uses of technology “allow students and teachers to do things that could not be done before (Meyer, 2010). 
 
-![image](https://user-images.githubusercontent.com/74535996/100519459-f5b36500-31d2-11eb-8563-565c86bc82de.png)
+![image](https://github.com/mms142-groupf-2020/mms142-groupf-2020.github.io/blob/Additional-Content-1/Pathways.png)
 
      An example of CBE is REX Book Store's Learning Pathways. According to REX, Learning Pathways "is one
      such tool that helps students achieve mastery of essential learning competencies and skills–and it is
