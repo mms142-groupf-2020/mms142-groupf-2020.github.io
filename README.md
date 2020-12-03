@@ -89,7 +89,7 @@ communications, and conduct evaluations.
 -	It affords more flexibility in terms of time.
 -	The platforms that offer the courses are easy to use.
 
-![3818436](https://raw.githubusercontent.com/mms142-groupf-2020/mms142-groupf-2020.github.io/Images-for-Site/3818436.jpg)
+![3818436](images/3818436.jpg)
 
      The cost of a college education here in the Philippines ranges from P300,000 to P100,000. 
      While, Skillshare prices their tutorials at P1200 Annually and P400 monthly and Udemy prices 
@@ -127,6 +127,7 @@ Technically, no. However, due to the social stigma of online classes, they aren�
 
 (Christensen, 1997)
 
+
 ### PHILIPPINE EDUCATION SYSTEM IN THE PRESENT ###
 
 From this time forward, the current situation of the Philippine education system is not having a sustainable solution. This system is struggling to adapt to the sudden and major shift to distance learning because of the COVID-19 pandemic. Some are reportedly killing themselves because of worries about causing a financial burden; some are stopping because they were not able to catch-up; and some are dropping because of their anxieties. Some struggling the difficulties of being a working student. On the other side, classrooms remain empty, but then teachers are working hard to deliver quality education to students (Haggerty & Lee, 2020). Some teachers are travelling to remote areas to drop off the printed modules for their students. There are some parents who have to step in to assist their children in their paper works. This pandemic made our education crisis worse than ever that made the inequities the online learning has much seen ever before especially around the digital divide. It is true that having a lack of in-person classes is having big effects.
@@ -153,19 +154,19 @@ Online learning also taps into new market of non-traditional students who in the
 
 Online learning will appeal most especially to students whose learning styles vary greatly from what a traditional classroom implements. With online learning, learning can be personalized. Now, students can learn anytime and anywhere.
 
-![image](https://github.com/mms142-groupf-2020/mms142-groupf-2020.github.io/blob/Additional-Content-1/OnlineLearning_1.gif)
+![image](images/OnlineLearning_1.gif)
 
-![image](https://github.com/mms142-groupf-2020/mms142-groupf-2020.github.io/blob/Additional-Content-1/OnlineLearning_2.png)
+![image](images/OnlineLearning_2.png)
 
 Online learning also offers new opportunities for educators to create and develop new dynamic courses of the highest quality. With the use of the internet, resources around the world have never been more accessible. Experts from various fields could also join online discussions to interact with students, further increasing quality and relevance of education. New innovations such as competency-based education (CBE) has enabled the pedagogy to assess the student’s different skills and proficiencies, making learning self-paced and individual-focused, therefore more efficient and effective (Strengths and Weaknesses of Online Learning,2020).
 
-![image](https://github.com/mms142-groupf-2020/mms142-groupf-2020.github.io/blob/Additional-Content-1/OnlineLearning_3.png)
+![image](images/OnlineLearning_3.png)
 
 Online learning is also beneficial to both students and educators because of ease in communication. By providing instantaneous feedback, aside from saving time, educators can shift focus and perspective, and ultimately help students develop personal goals toward their own learning.
 
 Cleborne Maddux and D. Lamont also describes the use of technology in education where Type I uses of technology “automates or replicates an existing practice” and Type II uses of technology “allow students and teachers to do things that could not be done before (Meyer, 2010). 
 
-![image](https://github.com/mms142-groupf-2020/mms142-groupf-2020.github.io/blob/Additional-Content-1/Pathways.png)
+![image](images/Pathways.png)
 
      An example of CBE is REX Book Store's Learning Pathways. According to REX, Learning Pathways "is one
      such tool that helps students achieve mastery of essential learning competencies and skills–and it is
@@ -173,7 +174,7 @@ Cleborne Maddux and D. Lamont also describes the use of technology in education 
      handy mobile app that allows students to learn at their own pace, anytime andanywhere!" Visit this link
      and try it out for yourself: bit.ly/Pathways-November
      
-![image](https://github.com/mms142-groupf-2020/mms142-groupf-2020.github.io/blob/Additional-Content-1/OnlineLearning_4.png)
+![image](images/OnlineLearning_4.png)
 
 The new learning experience puts the student in focus, where their needs and convenience translates to effective education. It pushes new ways to create a learning environment where students are motivated to learn course materials in their own way as well as creating new knowledge along the way.
 
