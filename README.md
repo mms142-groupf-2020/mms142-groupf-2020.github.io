@@ -32,7 +32,7 @@ is the main hallmark of a disruptor. It verily captures the underserved market, 
 ## WHAT ARE DISRUPTIVE TECHNOLOGIES? ##
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Cu6J6taqOSg
-" target="_blank"><img src="https://github.com/mms142-groupf-2020/mms142-groupf-2020.github.io/blob/Intro/Disruptive%20Innovation%20SS.jpg" 
+" target="_blank"><img src="images/Disruptive%20Innovation%20SS.jpg" 
 alt="Disruptive Innovation" width="1080" height="566" border="10" /></a>
 
 Disruptive Technologies or disruptive innovations are defined by Clayton Christensen as, ***“…it transforms a product that historically was so expensive and complicated that only 
