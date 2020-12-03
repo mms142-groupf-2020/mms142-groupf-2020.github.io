@@ -89,12 +89,9 @@ communications, and conduct evaluations.
 -	It affords more flexibility in terms of time.
 -	The platforms that offer the courses are easy to use.
 
-![3818436](images/3818436.jpg)
-
-     The cost of a college education here in the Philippines ranges from P300,000 to P100,000. 
-     While, Skillshare prices their tutorials at P1200 Annually and P400 monthly and Udemy prices 
-     their courses at $9.99 (P481) per course. These low prices are the ones that draw in the 
-     consumers as well as its accessibility over the internet.
+The cost of a college education here in the Philippines ranges from P300,000 to P100,000. 
+While, Skillshare prices their tutorials at P1200 Annually and P400 monthly and Udemy prices their courses at $9.99 (P481) per course. 
+These low prices are the ones that draw in the consumers as well as its accessibility over the internet.
 
 Online learning is legitimately “disruptive” because it passes the 3-set Litmus Test, also created by Clayton Christensen but we used the more recent metric, from the Clayton Christensen Institute to determine if the idea/product is indeed disruptive:
 
