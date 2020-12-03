@@ -1,5 +1,5 @@
 
-![10088](https://raw.githubusercontent.com/mms142-groupf-2020/mms142-groupf-2020.github.io/Images-for-Site/10088.jpg)
+![10088](images/Image%201.jpg)
 
 # ONLINE LEARNING AS A DISRUPTIVE TECHNOLOGY #
 
@@ -70,7 +70,7 @@ Markides’ (2006) added on to this and stated that disruptive technologies do n
 Therefore, astute practice of a technology gives rise to disruption and not its intrinsic features (Christensen and Raynor, 2003). This is because practice “does not occur in a vacuum but is shaped by underpinning economic and social factors (Flavin, 2012).”
 
 
-![3784896](https://raw.githubusercontent.com/mms142-groupf-2020/mms142-groupf-2020.github.io/Images-for-Site/3784896.jpg)
+![3784896](images/Image%203.jpg)
 
 ### WHAT IS ONLINE LEARNING? ###
 
@@ -132,6 +132,8 @@ Technically, no. However, due to the social stigma of online classes, they aren�
 From this time forward, the current situation of the Philippine education system is not having a sustainable solution. This system is struggling to adapt to the sudden and major shift to distance learning because of the COVID-19 pandemic. Some are reportedly killing themselves because of worries about causing a financial burden; some are stopping because they were not able to catch-up; and some are dropping because of their anxieties. Some struggling the difficulties of being a working student. On the other side, classrooms remain empty, but then teachers are working hard to deliver quality education to students (Haggerty & Lee, 2020). Some teachers are travelling to remote areas to drop off the printed modules for their students. There are some parents who have to step in to assist their children in their paper works. This pandemic made our education crisis worse than ever that made the inequities the online learning has much seen ever before especially around the digital divide. It is true that having a lack of in-person classes is having big effects.
 
 Even the pre-pandemic months, there was already an adoption with the use of technology. There has been a significant surge in usage since COVID-19 whether it is virtual tutoring, messaging language apps, video conferencing tools, or online learning software. Unseemly, as a result of poverty, according to Humanium.com (n.d.), more than 72 million children around the world remain unschooled. Another, a data indicates that less than 30 percent of the student population have internet access and there are some schools in island villages that do not have electricity and are so remote that they can only be accessed by boat. These happenings allow us to realize that we are not confident about the government’s plans for the implementation of distance learning and as a result, the sudden disruption of the online learning is emerging. But on the positive side, colleges and universities are able to reach students that they were previously unable to (Goldrick & Leigh, 2017). Research suggests that the changes coronavirus have caused might be here to stay with us for online learning has been shown to increase retention of information, and take less time (World Economic Forum, 2020).
+
+![](images/Image%202.jpg)
 
 ### HOW DOES ONLINE LEARNING DISRUPT TRADITIONAL FACE-TO-FACE EDUCATION? ###
 
