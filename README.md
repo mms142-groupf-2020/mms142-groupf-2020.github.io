@@ -91,10 +91,10 @@ communications, and conduct evaluations.
 
 ![3818436](https://raw.githubusercontent.com/mms142-groupf-2020/mms142-groupf-2020.github.io/Images-for-Site/3818436.jpg)
 
-     The cost of a college education here in the Philippines ranges from P300,000 to P100,000. While, Skillshare 
-     prices their tutorials at P1200 Annually and P400 monthly and Udemy prices their courses at $9.99 (P481) per 
-     course. These low prices are the ones that draw in the consumers as well as its accessibility over the 
-     internet.
+     The cost of a college education here in the Philippines ranges from P300,000 to P100,000. 
+     While, Skillshare prices their tutorials at P1200 Annually and P400 monthly and Udemy prices 
+     their courses at $9.99 (P481) per course. These low prices are the ones that draw in the 
+     consumers as well as its accessibility over the internet.
 
 Online learning is legitimately “disruptive” because it passes the 3-set Litmus Test, also created by Clayton Christensen but we used the more recent metric, from the Clayton Christensen Institute to determine if the idea/product is indeed disruptive:
 
@@ -184,24 +184,22 @@ The new learning experience puts the student in focus, where their needs and con
 
 - Malamed, C. (n.d.), Glossary of Online Learning Terms, retrieved: November 21, 2020, from: https://theelearningcoach.com/resources/online-learning-glossary-of-terms/
 
-- Online Learning - What is it and how does it work? (2017). Educations.com. retrieved: November 27, 2020, from: https://www.educations.com/study-guides/study-online/
+- Meyer, K. (2010, March 15). The Role of Disruptive Technology in the Future of Higher Education. Educause Review. retrieved: November 28, 2020, from: https://er.educause.edu/articles/2010/3/the-role-of-disruptive-technology-in-the-future-of-higher-education
 
 - QUT IFB101 (Mar. 22, 2015), Disruptive Innovation, retrieved: November 16, 2020, from: https://www.youtube.com/watch?v=Cu6J6taqOSg
 
 - REX Bookstore. (2020, November 21). Pathways. Retrieved November 28, 2020, from https://www.facebook.com/230137773679127/posts/5438332572859595/
 
-- Stern, J. (n.d.). Introduction to Online Teaching and Learning, retrieved: November 26, 2020, from: http://www.wlac.edu/online/documents/otl.pdf
-
-- University), V. U.-E. (Global B. S. &. (n.d.). E-learning as a Disruptive Innovation. Vision U-EENI (Global Business School & University), retrieved: November 28, 2020, from: http://www.u-eeni.edu.es/en/e-learning-Disruptive-Innovation.shtml
-
-- Stern, J. (n.d.). Introduction to Online Teaching and Learning, retrieved: November 26, 2020, from: http://www.wlac.edu/online/documents/otl.pdf
+- M, L., & Goldrick, T. (2017, June 5). The top 5 disruptive technologies in higher ed. retrieved: November 28, 2020, from: https://www.ecampusnews.com/2017/06/05/disruptive-technologies-higher-ed/
 
 - Online Learning - What is it and how does it work? (2017). Educations.com. retrieved: November 27, 2020, from: https://www.educations.com/study-guides/study-online/
 
-- University, V. U.-E. (Global B. S. &. (n.d.). E-learning as a Disruptive Innovation. Vision U-EENI (Global Business School & University), retrieved: November 28, 2020, from: http://www.u-eeni.edu.es/en/e-learning-Disruptive-Innovation.shtml
+- QUT IFB101(Mar. 22, 2015), Disruptive Innovation, retrieved: November 16, 2020, from: https://www.youtube.com/watch?v=Cu6J6taqOSg
 
-- M, L., & Goldrick, T. (2017, June 5). The top 5 disruptive technologies in higher ed. retrieved: November 28, 2020, from: https://www.ecampusnews.com/2017/06/05/disruptive-technologies-higher-ed/
+- Stern, J. (n.d.). Introduction to Online Teaching and Learning, retrieved: November 26, 2020, from: http://www.wlac.edu/online/documents/otl.pdf
 
-- Meyer, K. (2010, March 15). The Role of Disruptive Technology in the Future of Higher Education. Educause Review. retrieved: November 28, 2020, from: https://er.educause.edu/articles/2010/3/the-role-of-disruptive-technology-in-the-future-of-higher-education
+- Strengths and Weaknesses of Online Learning - ION Professional eLearning Programs - UIS. (2020). Uis.Edu. retrieved: November 28, 2020, from: https://www.uis.edu/ion/resources/tutorials/online-education-overview/strengths-and-weaknesses/
+
+- University), V. U.-E. (Global B. S. &. (n.d.). E-learning as a Disruptive Innovation. Vision U-EENI (Global Business School & University), retrieved: November 28, 2020, from: http://www.u-eeni.edu.es/en/e-learning-Disruptive-Innovation.shtml
 
 - Strengths and Weaknesses of Online Learning - ION Professional eLearning Programs - UIS. (2020). Uis.Edu. retrieved: November 28, 2020, from: https://www.uis.edu/ion/resources/tutorials/online-education-overview/strengths-and-weaknesses/
