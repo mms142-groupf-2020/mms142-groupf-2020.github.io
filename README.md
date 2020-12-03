@@ -127,6 +127,21 @@ Technically, no. However, due to the social stigma of online classes, they aren�
 
 (Christensen, 1997)
 
+### PHILIPPINE EDUCATION SYSTEM IN THE PRESENT ###
+
+From this time forward, the current situation of the Philippine education system is not having a sustainable solution. This system is struggling to adapt to the sudden and major shift to distance learning because of the COVID-19 pandemic. Some are reportedly killing themselves because of worries about causing a financial burden; some are stopping because they were not able to catch-up; and some are dropping because of their anxieties. Some struggling the difficulties of being a working student. On the other side, classrooms remain empty, but then teachers are working hard to deliver quality education to students (Haggerty & Lee, 2020). Some teachers are travelling to remote areas to drop off the printed modules for their students. There are some parents who have to step in to assist their children in their paper works. This pandemic made our education crisis worse than ever that made the inequities the online learning has much seen ever before especially around the digital divide. It is true that having a lack of in-person classes is having big effects.
+
+Even the pre-pandemic months, there was already an adoption with the use of technology. There has been a significant surge in usage since COVID-19 whether it is virtual tutoring, messaging language apps, video conferencing tools, or online learning software. Unseemly, as a result of poverty, according to Humanium.com (n.d.), more than 72 million children around the world remain unschooled. Another, a data indicates that less than 30 percent of the student population have internet access and there are some schools in island villages that do not have electricity and are so remote that they can only be accessed by boat. These happenings allow us to realize that we are not confident about the government’s plans for the implementation of distance learning and as a result, the sudden disruption of the online learning is emerging. But on the positive side, colleges and universities are able to reach students that they were previously unable to (Goldrick & Leigh, 2017). Research suggests that the changes coronavirus have caused might be here to stay with us for online learning has been shown to increase retention of information, and take less time (World Economic Forum, 2020).
+
+### HOW DOES ONLINE LEARNING DISRUPT TRADITIONAL FACE-TO-FACE EDUCATION? ###
+
+According to statistics taken from Purdue University & The National Center for Education Statistics, more than 6 million students are participating in online courses as part of their higher education program in 2017 (Online Learning - What is it and how does it work?, 2017). This number continue to rapidly increase each year especially today with the ongoing coronavirus pandemic, showing evidence of disruption. With the introduction of online learning technology, many educational institutions are forced to radically change the way they “operate, educate and innovate” to accommodate the changing needs and environment of the modern student. Factors such as education budget cuts from governments and students not being able to afford the high costs of tuition have driven technology to change policies and practices when it comes to higher education. There’s also a clamor for more efficient learning than the traditional education where learning is measured by how efficient students could memorize the lessons instead of understanding it. Arising from this perspective is a “new understanding of how learning happens” and this is how and why, Meyer theorizes disruption could occur (Meyer, 2010).
+
+Online learning also taps into new market of non-traditional students who in the past would have limited access to education. Examples are parents, the fully employed and physically challenged students. Online learning levels the playing field where discrimination regarding age, physical appearance, disabilities, race and gender are eliminated. Thus, the focus is on the learning itself and how well a student respond to the course materials. Studies made by the US Department of Education show that students performed better in online courses that face-to-face courses and better still with blended online and face-to-face learning (Meyer, 2010). According to the studies, this is because students have more time to spend time on a task at hand, giving them more control over the process of their learning. With continuous access to the course materials, students can take the time to reflect on their study. Students are also encouraged to explore other tools and softwares according to their needs. 
+
+Online learning also offers new opportunities for educators to create and develop new dynamic courses of the highest quality. With the use of the internet, resources around the world have never been more accessible. Experts from various fields could also join online discussions to interact with students, further increasing quality and relevance of education. New innovations such as competency-based education (CBE) has enabled the pedagogy to assess the student’s different skills and proficiencies, making learning self-paced and individual-focused, therefore more efficient and effective (Strengths and Weaknesses of Online Learning, 2020). Cleborne Maddux and D. Lamont also describes the use of technology in education where Type I uses of technology “automates or replicates an existing practice” and Type II uses of technology “allow students and teachers to do things that could not be done before (Meyer, 2010). 
+
+The new learning experience puts the student in focus, where their needs and convenience translates to effective education. It pushes new ways to create a learning environment where students are motivated to learn course materials in their own way as well as creating new knowledge along the way.
 
 ## HOW DOES ONLINE LEARNING DISRUPT TRADITIONAL FACE-TO-FACE EDUCATION? ##
 
@@ -162,7 +177,11 @@ The new learning experience puts the student in focus, where their needs and con
 
 ### Sources: ###
 
-- Adams, S. (Apr. 26, 2019). Online Education Provider Coursera Is Now Worth More Than $1 Billion. Retrieved from https://www.forbes.com/sites/susanadams/2019/04/25/online-education-provider-coursera-is-now-worth-more-than-1-billion/?sh=45c2902130e1
+- Adams, S. (2019). Online Education Provider Coursera Is Now Worth More Than $1 Billion. Retrieved from: https://www.forbes.com/sites/susanadams/2019/04/25/online-education-provider-coursera-is-now-worth-more-than-1-billion/?sh=45c2902130e1
+
+- Christensen Institute. (2017). Are you (really) disruptive? Six ways to find out. Retrieved from: https://www.christenseninstitute.org/blog/really-disruptive-six-ways-find/
+
+- Goldrick, T., & Leigh, M. (2017). The top 5 disruptive technologies in higher ed. Retrieved November 28, 2020 from: https://www.ecampusnews.com/2017/06/05/disruptive-technologies-higher-ed/
 
 - Christensen Institute. (Oct. 24, 2017). Are you (really) disruptive? Six ways to find out. Retrieved from https://www.christenseninstitute.org/blog/really-disruptive-six-ways-find/
 
@@ -178,9 +197,21 @@ The new learning experience puts the student in focus, where their needs and con
 
 - Harvard Business Review (Mar. 30, 2020), Disruptive Innovation Explained, retrieved: November 18, 2020, from: https://www.youtube.com/watch?v=qDrMAzCHFUU
 
-- Interaction Design Foundation, 2nd Edition (Jan. 01, 2014), The Encyclopedia of Human-Computer Interaction, retrieved: November 21, 2020, from: https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/disruptive-innovation
+- Haggerty, N., & Lee, D. (2020). Philippines: The Rich and Poor Divide in Distance Learning. Retrieved November 28, 2020 from: https://international.thenewslens.com/article/142537
 
-- Iskandar, Andrea. (2016). Coursera's Business Level Strategy. 10.13140/RG.2.1.2902.8088. 
+- Harvard Business Review. (2020).  Disruptive Innovation Explained. Retrieved November 18, 2020 from: https://www.youtube.com/watch?v=qDrMAzCHFUU
+
+- Interaction Design Foundation, 2nd Edition. (2014). The Encyclopedia of Human-Computer Interaction. Retrieved November 21, 2020 from: https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/disruptive-innovation
+
+- Iskandar, A. (2016). Coursera's Business Level Strategy. 10.13140/RG.2.1.2902.8088. 
+
+- Malamed, C. (n.d.). Glossary of Online Learning Terms. Retrieved November 21, 2020 from: https://theelearningcoach.com/resources/online-learning-glossary-of-terms/
+
+- Meyer, K. (2010). The Role of Disruptive Technology in the Future of Higher Education. Educause Review. Retrieved November 28, 2020 from: https://er.educause.edu/articles/2010/3/the-role-of-disruptive-technology-in-the-future-of-higher-education
+
+- Online Learning - What is it and how does it work? (2017). Educations.com. Retrieved November 27, 2020 from: https://www.educations.com/study-guides/study-online/
+
+- QUT IFB101. (2015). Disruptive Innovation. Retrieved November 16, 2020 from: https://www.youtube.com/watch?v=Cu6J6taqOSg
 
 - Malamed, C. (n.d.), Glossary of Online Learning Terms, retrieved: November 21, 2020, from: https://theelearningcoach.com/resources/online-learning-glossary-of-terms/
 
@@ -192,14 +223,23 @@ The new learning experience puts the student in focus, where their needs and con
 
 - M, L., & Goldrick, T. (2017, June 5). The top 5 disruptive technologies in higher ed. retrieved: November 28, 2020, from: https://www.ecampusnews.com/2017/06/05/disruptive-technologies-higher-ed/
 
-- Online Learning - What is it and how does it work? (2017). Educations.com. retrieved: November 27, 2020, from: https://www.educations.com/study-guides/study-online/
+- Santos, A. (2020). In the Philippines, distance learning reveals the digital divide. Heinrich Boll Stiftung. Retrieved November 29, 2020 from https://eu.boell.org/en/2020/10/06/philippines-distance-learning-reveals-digital-divide
+
+- Stern, J. (n.d.). Introduction to Online Teaching and Learning. Retrieved November 26, 2020 from: http://www.wlac.edu/online/documents/otl.pdf
+
+- Strengths and Weaknesses of Online Learning - ION Professional eLearning Programs - UIS. (2020). Uis.Edu. Retrieved November 28, 2020 from: https://www.uis.edu/ion/resources/tutorials/online-education-overview/strengths-and-weaknesses/
+
+- University, V. U.-E. (Global B. S. &. (n.d.). E-learning as a Disruptive Innovation. Vision U-EENI (Global Business School & University). Retrieved November 28, 2020 from: http://www.u-eeni.edu.es/en/e-learning-Disruptive-Innovation.shtml
 
 - QUT IFB101(Mar. 22, 2015), Disruptive Innovation, retrieved: November 16, 2020, from: https://www.youtube.com/watch?v=Cu6J6taqOSg
 
 - Stern, J. (n.d.). Introduction to Online Teaching and Learning, retrieved: November 26, 2020, from: http://www.wlac.edu/online/documents/otl.pdf
 
-- Strengths and Weaknesses of Online Learning - ION Professional eLearning Programs - UIS. (2020). Uis.Edu. retrieved: November 28, 2020, from: https://www.uis.edu/ion/resources/tutorials/online-education-overview/strengths-and-weaknesses/
+- Unknown Author. (n.d.). Right to Education : Situation around the world. Retrieved November 29, 2020 from: https://www.humanium.org/en/right-to-education/
+
+- World Economic Forum. (2020). The COVID-19 pandemic has changed education forever. This is how. Retrieved November 30, 2020 from https://www.weforum.org/agenda/2020/04/coronavirus-education-global-covid19-online-digital-learning/
 
 - University), V. U.-E. (Global B. S. &. (n.d.). E-learning as a Disruptive Innovation. Vision U-EENI (Global Business School & University), retrieved: November 28, 2020, from: http://www.u-eeni.edu.es/en/e-learning-Disruptive-Innovation.shtml
 
 - Strengths and Weaknesses of Online Learning - ION Professional eLearning Programs - UIS. (2020). Uis.Edu. retrieved: November 28, 2020, from: https://www.uis.edu/ion/resources/tutorials/online-education-overview/strengths-and-weaknesses/
+
